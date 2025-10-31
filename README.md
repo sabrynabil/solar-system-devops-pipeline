@@ -56,6 +56,7 @@ The goal of this project is to automate the entire software delivery lifecycle �
 | ArgoCD Sync | Deploys the new version to Kubernetes |
 | Reports Upload | Sends generated reports to AWS S3 |
 
+![DevOps Jenkins Pipeline](./imgs/pipeline.jpeg)
 ---
 
 ## ☁️ AWS Integration
