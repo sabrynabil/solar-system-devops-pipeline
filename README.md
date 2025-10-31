@@ -38,9 +38,8 @@ The goal of this project is to automate the entire software delivery lifecycle â
 
 ## ðŸ§± Architecture Diagram
 
-![DevOps Architecture Diagram](./docs/devops-architecture.png)
+![DevOps Architecture Diagram](./imgs/architecture.jpeg)
 
-*(You can upload the diagram I made for you here under `docs/devops-architecture.png`)*
 
 ---
 
