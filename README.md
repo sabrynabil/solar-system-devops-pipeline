@@ -56,6 +56,12 @@ The goal of this project is to automate the entire software delivery lifecycle �
 | Reports Upload | Sends generated reports to AWS S3 |
 
 ![DevOps Jenkins Pipeline](./imgs/2.png)
+
+![DevOps Jenkins Pipeline](./imgs/4.png)
+
+![DevOps Jenkins Pipeline](./imgs/5.png)
+
+![DevOps Jenkins Pipeline](./imgs/6.png)
 ---
 
 ## ☁️ AWS Integration
