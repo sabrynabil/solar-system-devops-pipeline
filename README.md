@@ -63,6 +63,7 @@ The goal of this project is to automate the entire software delivery lifecycle â
 - **EC2:** Used for hosting Jenkins and ArgoCD.  
 - **S3:** Stores generated scan and build reports.  
 
+![S3-Reports](./imgs/reports-aws.jpeg)
 ---
 
 ## ðŸ“¦ Prerequisites
