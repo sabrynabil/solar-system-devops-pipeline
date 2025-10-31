@@ -38,7 +38,7 @@ The goal of this project is to automate the entire software delivery lifecycle �
 
 ## 🧱 Architecture Diagram
 
-![DevOps Architecture Diagram](./imgs/1.jpeg)
+![DevOps Architecture Diagram](./imgs/1.png)
 
 
 ---
@@ -55,14 +55,14 @@ The goal of this project is to automate the entire software delivery lifecycle �
 | ArgoCD Sync | Deploys the new version to Kubernetes |
 | Reports Upload | Sends generated reports to AWS S3 |
 
-![DevOps Jenkins Pipeline](./imgs/2.jpeg)
+![DevOps Jenkins Pipeline](./imgs/2.png)
 ---
 
 ## ☁️ AWS Integration
 - **EC2:** Used for hosting Jenkins and ArgoCD.  
 - **S3:** Stores generated scan and build reports.  
 
-![S3-Reports](./imgs/3.jpeg)
+![S3-Reports](./imgs/3.png)
 ---
 
 ## 📦 Prerequisites
